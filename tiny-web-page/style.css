@@ -22,5 +22,5 @@ h1:before {
 
 ol {
   color: red;
-  border: 1rem solid yellow;
+  font-size: small;
 }
